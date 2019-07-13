@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">ALC 4 PHASE 1</string>
+    <string name="welcomeNote">Welcome to ALC 4.0</string>
+    <string name="andela_web_page">ABOUT ALC</string>
+    <string name="profile">MY PROFILE</string>
+    <string name="Man_WebActvity_label">ABOUT ALC</string>
+    <string name="slack_username">Slack UserName:   @SibusisoKhumalo</string>
+    <string name="phone_number">Phone number:   082-210-4822</string>
+    <string name="email">Email:   sibusisok32@gmail.com</string>
+    <string name="country">Country:   South Africa</string>
+    <string name="track">Track:   Android</string>
+    <string name="name">Sibusiso Khumalo</string>
+</resources>
